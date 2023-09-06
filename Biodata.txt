@@ -1,1 +1,2 @@
 Nama = Lajefa Djuda Sianturi
+Jurusan = Rekayasa Perangkat Lunak
